@@ -79,5 +79,5 @@ Catat perkembangan melalui commit Git yang bermakna.
 - **Tambahkan penanganan event reset**: Menambahkan listener `reset` untuk menghapus umpan balik saat formulir di-reset.
 - **Terapkan pengendalian submit formulir**: Menambahkan `event.preventDefault()` serta validasi nama, email, semester, tanggal, jenis pesan, topik, program studi, dan pesan beserta umpan balik.
 - **Uji dan perbaiki interaksi navigasi**: Pengujian navigasi (aria-expanded, aria-label, tampilan responsif) dan perbaikan bila ditemukan galat.
-- **Perbaiki validasi formulir**: Perbaikan aturan atau pesan validasi berdasarkan hasil pengujian.
+- **Perbaiki validasi formulir**: Perbaikan aturan atau pesan validasi berdasarkan hasil 
 - **Selesaikan pengujian dan perbaikan P5**: Pengujian ulang dan regresi navigasi, validasi, dan umpan balik; README diperbarui sesuai hasil aktual.
