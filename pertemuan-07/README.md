@@ -18,3 +18,7 @@ Nama / NIM: Verinda Viola / 2622500031
 - Tes ?nama=Andi menampilkan "Nama yang diterima: Andi".
 - Tes ?nama=Budi%20Anduk menampilkan "Nama yang diterima: Budi Anduk".
 - Tanpa parameter nama, tidak ada tulisan dan tidak ada error.
+## C.4 Pengiriman Formulir dengan GET
+- Menambahkan contactForm.submit(); di script.js setelah validasi berhasil.
+- Data valid: halaman dimuat ulang, URL berisi parameter ?nama=...&email=..., dan tertampil "Nama yang diterima".
+- Data kosong/tidak valid: pesan validasi muncul dan formulir tidak terkirim.
