@@ -22,3 +22,6 @@ Nama / NIM: Verinda Viola / 2622500031
 - Menambahkan contactForm.submit(); di script.js setelah validasi berhasil.
 - Data valid: halaman dimuat ulang, URL berisi parameter ?nama=...&email=..., dan tertampil "Nama yang diterima".
 - Data kosong/tidak valid: pesan validasi muncul dan formulir tidak terkirim.
+## E.1 Demonstrasi GET (indexGet.php)
+- index.php disalin menjadi indexGet.php, action diubah ke indexGet.php, method tetap get.
+- Tes: setelah klik Kirim, URL menjadi indexGet.php?nama=...&email=... dan tertampil "Nama yang diterima".
