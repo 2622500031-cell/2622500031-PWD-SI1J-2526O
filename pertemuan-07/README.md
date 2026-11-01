@@ -13,3 +13,8 @@ Nama / NIM: Verinda Viola / 2622500031
 ## B.3 Pemeriksaan Formulir
 - Formulir contactForm di index.php memakai method="get" dan action="index.php".
 - script.js menangani event submit dan memakai event.preventDefault().
+## C.3 Menerima Data dengan $_GET
+- Kode PHP $_GET['nama'] ditambahkan di bagian atas index.php.
+- Tes ?nama=Andi menampilkan "Nama yang diterima: Andi".
+- Tes ?nama=Budi%20Anduk menampilkan "Nama yang diterima: Budi Anduk".
+- Tanpa parameter nama, tidak ada tulisan dan tidak ada error.
