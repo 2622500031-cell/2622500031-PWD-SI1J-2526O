@@ -1,4 +1,4 @@
-# pertemuan-06# Pertemuan 6 (P6) - PHP Dasar dan Pemrograman Sisi Peladen
+# Pertemuan 6 (P6) - PHP Dasar dan Pemrograman Sisi Peladen
 
 Mata Kuliah: Pemrograman Web Dasar (IS205) | Semester Gasal 2026/2027
 Nama / NIM: Verinda Viola / 2622500031
@@ -39,7 +39,11 @@ Nama / NIM: Verinda Viola / 2622500031
 
 ## Galat yang Ditemukan dan Perbaikannya
 1. **ERR_CONNECTION_REFUSED** di Chrome: Apache belum berjalan. Diperbaiki dengan klik "Mulai Semua" di Laragon; setelah itu halaman dapat dibuka.
+<<<<<<< HEAD
 2. **Halaman masih tampil versi P5**: alamat memakai `/pwd/` sehingga membuka salinan lama. Diperbaiki dengan memakai alamat `http://localhost/2622500031-PWD-SI1J-2526O/pertemuan-06/`.
+=======
+2. **Halaman masih tampil versi P5**: alamat memakai `/pwd/` sehingga membuka salinan lama. Diperbaiki dengan memakai alamat `http://localhost/2622500051-PWD-SI1J-2526O/pertemuan-06/`.
+>>>>>>> f77186478c136c5d11d30cb55e901544c623e5c0
 3. **Foto profil tidak tampil**: atribut `src` tertulis `img/foto-profil.jpeg` padahal berkas bernama `foto-profil.jpg`. Diperbaiki menjadi `img/foto-profil.jpg`; foto kemudian tampil.
 
 ## Pengujian Hasil Akhir
@@ -47,4 +51,9 @@ Nama / NIM: Verinda Viola / 2622500031
 - Hasil: [ISI SETELAH PENGUJIAN AKHIR]
 
 ## Repositori GitHub
-URL: https://github.com/2622500051-a11y/2622500031-PWD-SI1J-2526O
+<<<<<<< HEAD
+URL: https://github.com/2622500051-cell/2622500031-PWD-SI1J-2526O
+=======
+URL: https://github.com/2622500031-cell/2622500031-PWD-SI1J-2526O
+# pertemuan-06
+>>>>>>> f77186478c136c5d11d30cb55e901544c623e5c0
