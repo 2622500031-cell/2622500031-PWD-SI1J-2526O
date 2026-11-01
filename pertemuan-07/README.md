@@ -25,3 +25,8 @@ Nama / NIM: Verinda Viola / 2622500031
 ## E.1 Demonstrasi GET (indexGet.php)
 - index.php disalin menjadi indexGet.php, action diubah ke indexGet.php, method tetap get.
 - Tes: setelah klik Kirim, URL menjadi indexGet.php?nama=...&email=... dan tertampil "Nama yang diterima".
+## E.2 Mengubah Formulir Utama ke POST
+- Atribut method pada form di index.php diubah dari get menjadi post.
+- Kode sumber (Ctrl+U) menunjukkan method="post".
+- Tes: setelah klik Kirim, URL tidak berisi parameter ?nama=...&email=....
+- indexGet.php tetap memakai GET sebagai pembanding.
