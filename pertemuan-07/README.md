@@ -10,3 +10,6 @@ Nama / NIM: Verinda Viola / 2622500031
 ## B.2 Pengujian Laragon
 - Apache berjalan di Laragon.
 - Halaman pertemuan-07 di localhost menampilkan hasil yang sama dengan pertemuan-06.
+## B.3 Pemeriksaan Formulir
+- Formulir contactForm di index.php memakai method="get" dan action="index.php".
+- script.js menangani event submit dan memakai event.preventDefault().
