@@ -38,3 +38,7 @@ Nama / NIM: Verinda Viola / 2622500031
 - Nama checkbox di index.php diubah menjadi minat[].
 - Selector di script.js disesuaikan agar mengenali minat dan minat[].
 - Tes: pilih HTML dan CSS, pilih satu topik, dan tanpa topik. Hasilnya validasi berfungsi sesuai pilihan.
+## F.6 Tahap 2 Menampilkan Data POST
+- Menambahkan bagian "Data yang Diterima Peladen" setelah </form>.
+- Semua nilai ditampilkan dengan htmlspecialchars().
+- Tes: data valid tampil lengkap, dan teks <b>Mahasiswa</b> tampil sebagai teks biasa.
