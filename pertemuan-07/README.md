@@ -33,3 +33,8 @@ Nama / NIM: Verinda Viola / 2622500031
 ## E.3 Menerima Data dengan $_POST
 - Kode PHP di index.php diubah dari $_GET menjadi $_POST.
 - Tes: setelah klik Kirim, tertampil "Nama yang diterima" dan URL tidak berisi parameter.
+## E.4 Mengakses Data dari Berbagai Input
+- Menambah pembacaan $_POST untuk email, semester, tanggal, jenis_pesan, prodi, pesan, dan minat di index.php.
+- Nama checkbox di index.php diubah menjadi minat[].
+- Selector di script.js disesuaikan agar mengenali minat dan minat[].
+- Tes: pilih HTML dan CSS, pilih satu topik, dan tanpa topik. Hasilnya validasi berfungsi sesuai pilihan.
