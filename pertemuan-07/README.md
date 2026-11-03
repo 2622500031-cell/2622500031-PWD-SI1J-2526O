@@ -30,3 +30,6 @@ Nama / NIM: Verinda Viola / 2622500031
 - Kode sumber (Ctrl+U) menunjukkan method="post".
 - Tes: setelah klik Kirim, URL tidak berisi parameter ?nama=...&email=....
 - indexGet.php tetap memakai GET sebagai pembanding.
+## E.3 Menerima Data dengan $_POST
+- Kode PHP di index.php diubah dari $_GET menjadi $_POST.
+- Tes: setelah klik Kirim, tertampil "Nama yang diterima" dan URL tidak berisi parameter.
